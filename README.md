@@ -1,4 +1,5 @@
-zsh-pure
-========
+## Pure for Oh My Zsh
 
-Minimal Oh My Zsh theme based on the fantastic Pure prompt by Sindre Sorhus
+A super-clean a minimal theme for your Oh My Zsh-powered prompt. Based on the fantastic [Pure prompt](https://github.com/sindresorhus/pure) by [Sindre Sorhus](https://github.com/sindresorhus). That's all.
+
+![](screenshot.png)
